@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="471.662" height="600.298" viewBox="0 0 471.662 600.298">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="471.662" height="600.298" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_152" data-name="Group 152" transform="translate(4794 -2605)">
+    <g id="Group_75" data-name="Group 75" transform="translate(-4794 2605)">
+      <g id="Group_74" data-name="Group 74" clip-path="url(#clip-path)">
+        <path id="Path_183" data-name="Path 183" d="M447.9,600.3H64.317A23.784,23.784,0,0,1,40.56,576.541V23.757A23.784,23.784,0,0,1,64.317,0H382.511l89.151,89.152V576.541A23.783,23.783,0,0,1,447.9,600.3" fill="#f5f5f5"/>
+        <path id="Path_184" data-name="Path 184" d="M0,226.554,46.355,267.7l3.09-41.146Z" fill="#e25d13"/>
+        <path id="Path_185" data-name="Path 185" d="M447.906,600.3H64.318a23.783,23.783,0,0,1-23.757-23.757V23.757A23.783,23.783,0,0,1,64.318,0H382.512l89.151,89.152V576.541A23.784,23.784,0,0,1,447.906,600.3M64.318,11.589A12.182,12.182,0,0,0,52.15,23.757V576.541a12.182,12.182,0,0,0,12.168,12.168H447.906a12.181,12.181,0,0,0,12.168-12.168V93.951L377.712,11.589Z" fill="#c9c9c9"/>
+        <path id="Path_186" data-name="Path 186" d="M381.27,66.056A26.653,26.653,0,0,0,407.924,92.71h59.1L381.27,6.953Z" fill="#c9c9c9"/>
+        <rect id="Rectangle_61" data-name="Rectangle 61" width="338.392" height="141.956" transform="translate(0 84.598)" fill="#fd9301"/>
+        <path id="Path_191" data-name="Path 191" d="M255.719,496.013,187.957,477.2l-15.1-169.374h165.93L323.67,477.174Z" fill="#c9c9c9"/>
+        <path id="Path_192" data-name="Path 192" d="M255.884,363.221h50.1l1.86-20.773H203.8l5.6,62.82h71.994l-2.413,26.938-23.168,6.254v0l-.019.005-23.133-6.247-1.479-16.567H210.327l2.911,32.615,42.55,11.814.1-.027v0L298.4,448.268l5.7-63.774H228.4l-1.9-21.273h29.386Z" fill="#fff"/>
+      </g>
+    </g>
+    <text id="HTML" transform="translate(-4744.1 2792.582)" fill="#fff" font-size="84.352" font-family="Arial-Black, Arial Black" font-weight="800"><tspan x="0" y="0">HTML</tspan></text>
+  </g>
+</svg>

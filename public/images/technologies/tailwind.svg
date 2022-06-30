@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="471.662" height="600.298" viewBox="0 0 471.662 600.298">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_100" data-name="Rectangle 100" width="471.662" height="600.298" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_157" data-name="Group 157" transform="translate(2324 -1545)">
+    <g id="Group_145" data-name="Group 145" transform="translate(-2324 1545)">
+      <g id="Group_142" data-name="Group 142">
+        <g id="Group_141" data-name="Group 141" clip-path="url(#clip-path)">
+          <path id="Path_290" data-name="Path 290" d="M447.9,600.3H64.317A23.784,23.784,0,0,1,40.56,576.541V23.757A23.784,23.784,0,0,1,64.317,0H382.511l89.152,89.152V576.541A23.784,23.784,0,0,1,447.9,600.3" fill="#f5f5f5"/>
+          <path id="Path_291" data-name="Path 291" d="M0,226.554,46.355,267.7l3.09-41.146Z" fill="#1b7a2f"/>
+          <path id="Path_292" data-name="Path 292" d="M447.9,600.3H64.317A23.783,23.783,0,0,1,40.56,576.541V23.757A23.783,23.783,0,0,1,64.317,0H382.511l89.152,89.152V576.541A23.785,23.785,0,0,1,447.9,600.3M64.317,11.589A12.182,12.182,0,0,0,52.149,23.757V576.541a12.182,12.182,0,0,0,12.168,12.168H447.9a12.182,12.182,0,0,0,12.169-12.168V93.951L377.711,11.589Z" fill="#c9c9c9"/>
+          <path id="Path_293" data-name="Path 293" d="M381.27,66.056A26.653,26.653,0,0,0,407.924,92.71h59.1L381.27,6.953Z" fill="#c9c9c9"/>
+          <rect id="Rectangle_99" data-name="Rectangle 99" width="338.392" height="141.956" transform="translate(-0.001 84.598)" fill="#3adb9d"/>
+        </g>
+      </g>
+      <text id="TAILWIND" transform="translate(35.493 177.344)" fill="#fff" font-size="50.389" font-family="Arial-Black, Arial Black" font-weight="800"><tspan x="0" y="0" letter-spacing="-0.067em">T</tspan><tspan y="0">AI</tspan><tspan y="0" letter-spacing="-0.017em">L</tspan><tspan y="0">WIND</tspan></text>
+      <g id="Group_144" data-name="Group 144">
+        <g id="Group_143" data-name="Group 143" clip-path="url(#clip-path)">
+          <path id="Path_294" data-name="Path 294" d="M266.579,334.555q-51.2,0-64,51.2,19.2-25.6,44.8-19.2c9.737,2.435,16.7,9.5,24.4,17.319,12.55,12.738,27.074,27.481,58.8,27.481q51.2,0,64-51.2-19.2,25.6-44.8,19.2c-9.738-2.434-16.7-9.5-24.4-17.318-12.55-12.739-27.074-27.482-58.8-27.482m-64,76.8q-51.2,0-64,51.2,19.2-25.6,44.8-19.2c9.737,2.435,16.7,9.5,24.4,17.319,12.55,12.739,27.074,27.482,58.8,27.482q51.2,0,64-51.2-19.2,25.6-44.8,19.2c-9.738-2.435-16.7-9.5-24.4-17.319-12.55-12.738-27.074-27.482-58.8-27.482" fill="#c9c9c9"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

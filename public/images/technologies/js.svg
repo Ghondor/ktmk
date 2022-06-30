@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="471.663" height="600.298" viewBox="0 0 471.663 600.298">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="471.663" height="600.298" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_151" data-name="Group 151" transform="translate(5386 -2606)">
+    <g id="Group_84" data-name="Group 84" transform="translate(-5386 2606)">
+      <g id="Group_83" data-name="Group 83" clip-path="url(#clip-path)">
+        <path id="Path_209" data-name="Path 209" d="M447.906,600.3H64.318a23.783,23.783,0,0,1-23.757-23.757V23.757A23.783,23.783,0,0,1,64.318,0H382.511l89.152,89.151v487.39A23.783,23.783,0,0,1,447.906,600.3" fill="#f5f5f5"/>
+        <path id="Path_210" data-name="Path 210" d="M0,226.554,46.355,267.7l3.091-41.146Z" fill="#b79504"/>
+        <path id="Path_211" data-name="Path 211" d="M447.906,600.3H64.318a23.783,23.783,0,0,1-23.757-23.757V23.757A23.783,23.783,0,0,1,64.318,0H382.512l89.151,89.151v487.39A23.783,23.783,0,0,1,447.906,600.3M64.318,11.589A12.182,12.182,0,0,0,52.15,23.757V576.541a12.182,12.182,0,0,0,12.168,12.168H447.906a12.182,12.182,0,0,0,12.168-12.168V93.951L377.712,11.589Z" fill="#c9c9c9"/>
+        <path id="Path_212" data-name="Path 212" d="M381.27,66.056A26.653,26.653,0,0,0,407.924,92.71h59.1L381.27,6.953Z" fill="#c9c9c9"/>
+        <rect id="Rectangle_67" data-name="Rectangle 67" width="338.392" height="141.956" transform="translate(-0.001 84.598)" fill="#f5ca1b"/>
+        <path id="Path_215" data-name="Path 215" d="M255.822,496.8l-68.371-19.145L172.584,306.622l167.527.37L324.468,477.936Z" fill="#c9c9c9"/>
+        <path id="Path_216" data-name="Path 216" d="M260.048,341.77l-.141,63.424,20.973.047h.245l-2.5,27.194-18.792,5.027-.049,21.786,38.408-10.554,5.9-64.375-23.17-.051.048-21.478,25.009.055h.068l1.925-20.969Z" fill="#fff"/>
+        <path id="Path_217" data-name="Path 217" d="M231.254,341.706l2.963,91.823-6.449-1.544L226.435,415.6l-17.083-.038,2.865,32.937,38.372,10.745.26-117.5Z" fill="#fff"/>
+      </g>
+    </g>
+    <text id="JS" transform="translate(-5275.1 2792.582)" fill="#fff" font-size="84.352" font-family="Arial-Black, Arial Black" font-weight="800"><tspan x="0" y="0">JS</tspan></text>
+  </g>
+</svg>

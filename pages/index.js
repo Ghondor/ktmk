@@ -1,11 +1,22 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Team from '../modules/team';
+import About from '../modules/about';
+import Contact from '../modules/contact';
+import Careers from '../modules/careers';
+import Incubator from '../modules/incubator';
+import Layout from '../modules/shared/layout';
+import Technologies from '../modules/technologies';
+import Hero from '../components/hero';
 
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+    <Layout title="Home">
+      <Hero />
+      <About />
+      <Technologies />
+      <Team />
+      <Careers />
+      <Incubator />
+      <Contact />
+    </Layout>
+  );
 }
